@@ -39,6 +39,6 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hedayat-Farahi786&show_icons=true&locale=en&layout=compact&theme=dark" alt="hedayat-farahi786" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hedayat-Farahi786&show_icons=true&locale=en&theme=dark" alt="hedayat-farahi786" width="500" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hedayat-Farahi786&show_icons=true&locale=en&theme=dark" alt="hedayat-farahi786" width="450" /></p>
   </div>
 
