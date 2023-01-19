@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hedayat-Farahi786&label=Profile%20views&color=0e75b6&style=flat" alt="hedayat-farahi786" /> </p>
 
-- 🔭 I’m currently working on **some cool stuff**
+- 🔭 Front-End Developer at **Oerlikon Digital Hub**
 
 - 👨‍💻 All of my projects are available at [https://hedayat-farahi.netlify.app/](https://hedayat-farahi.netlify.app/)
 
-- 💬 Ask me about **Javascript, React, Python**
+- 💬 Ask me about **Javascript, Angular, React, Python and etc...**
 
-- 📫 How to reach me **Hedayatfarahi8@gmail.com**
+- 📫 You can reach me at **Hedayatfarahi8@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15uCZR4_Dk_ocsUMHbUh2lj9NqNY0Tp9_/view?usp=sharing)
 
