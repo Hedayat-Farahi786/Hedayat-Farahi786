@@ -1,4 +1,3 @@
-[![MasterHead]([https://i.imgur.com/ntE8SA4.jpeg](https://cdn.pixabay.com/photo/2020/05/28/15/56/digitization-5231610_960_720.jpg))](https://hedayat-farahi.netlify.app)
 <h1>Hi 👋, I'm Hedayat Farahi</h1>
 <h3>A passionate web developer from Kabul Afghanistan currently living in Münich, Germany</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
