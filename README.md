@@ -12,8 +12,6 @@
 
 - 📫 You can reach me at **Hedayatfarahi8@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15uCZR4_Dk_ocsUMHbUh2lj9NqNY0Tp9_/view?usp=sharing)
-
 - ⚡ Fun fact **Elon Musk and I share the same birthday!**
 
 <h3 align="left">Connect with me:</h3>
